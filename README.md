@@ -1,5 +1,5 @@
 # MobilityModels
-Graphical representation of mobility models in Python.
+Graphical representation of mobility models in Python. This project was a part of the assignment for the course 'Analysis, Modeling and Simulation of Communication Networks' (EI7450) at Technical University of Munich.
 
 ## Motivation
 Wireless network simulations often involve movements of entities like,
